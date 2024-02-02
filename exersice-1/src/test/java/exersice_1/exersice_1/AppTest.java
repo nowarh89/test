@@ -10,7 +10,7 @@ import org.junit.Test;
 public class AppTest 
 {
     /**
-     * Rigorous Testt :--)
+     * Rigorous Testt :-)
      */
     @Test
     public void exe_2_Partition_D_min() {
